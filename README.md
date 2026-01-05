@@ -16,7 +16,8 @@ Modify the home button by calling `configureHomeButton`
 ```html
 <script>
   configureHomeButton({
-    backgroundColor: '#FF5733'
+    backgroundColor: '#FF5733',
+    right: '12px'
   });
 </script>
 ```
